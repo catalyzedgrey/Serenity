@@ -1,0 +1,505 @@
+fileFormatVersion: 2
+guid: 0b6988054e374fb4e9fd78cd9af60ee1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bar.Counter.Back
+    100002: Bar.Counter.Back.Faucet.001
+    100004: Bar.Counter.Front
+    100006: Bar.Counter.Front.Faucet.001
+    100008: Bar.Front.Fountain_Faucets.001
+    100010: Bar.Front.Fountain_Faucets.002
+    100012: Bar_Stool.001
+    100014: Bar_Stool.002
+    100016: Bar_Stool.003
+    100018: Bar_Stool.Armature.001
+    100020: Bar_Stool.Armature.002
+    100022: Bar_Stool.Armature.003
+    100024: Bottle.Emendolya.001
+    100026: Bottle.Kechkova_Craft.001
+    100028: Bottle.Kechkova_Craft.002
+    100030: Bottle.Kechkova_Craft.Cap
+    100032: Bottle.Stoly_Vodka.001
+    100034: Bottle.Trepezian_Premium.001
+    100036: Bottle.Trepezian_Premium.002
+    100038: Bottle.Trepezian_Premium.003
+    100040: Bottle.Trepezian_Premium.004
+    100042: Camera.Edit
+    100044: Camera.Tables_Bar
+    100046: Camera.Tables_Windows
+    100048: Camera.Wide_Corner
+    100050: Ceiling.Life_Support.Pipes
+    100052: Ceiling.Life_Support.Vents
+    100054: Ceiling.Panels
+    100056: Chair.001
+    100058: Chair.002
+    100060: Chair.003
+    100062: Chair.004
+    100064: Control_Handle
+    100066: Control_Handle 1
+    100068: Control_Handle 2
+    100070: Control_Handle_end
+    100072: Control_Handle_end 1
+    100074: Control_Handle_end 2
+    100076: Cup.Glass_9_Fluted.001
+    100078: Display
+    100080: Door
+    100082: Floor
+    100084: Floor_Base
+    100086: Floor_Base 1
+    100088: Floor_Base 2
+    100090: Lamp.Bar.Behind
+    100092: Lamp.Room_Fill.001
+    100094: Lamp.Room_Fill.002
+    100096: Lamp.Room_Fill.003
+    100098: Lamp.Spot.Bar_Halo
+    100100: Lamp.Spot.Door_Halo
+    100102: Lamp.Spot.Table.001
+    100104: Lamp.Spot.Table.002
+    100106: Mug.001
+    100108: Mug.002
+    100110: Seat
+    100112: Seat 1
+    100114: Seat 2
+    100116: Seat_end
+    100118: Seat_end 1
+    100120: Seat_end 2
+    100122: //RootNode
+    100124: Strut.Arms.Lower
+    100126: Strut.Arms.Lower 1
+    100128: Strut.Arms.Lower 2
+    100130: Strut.Arms.Upper
+    100132: Strut.Arms.Upper 1
+    100134: Strut.Arms.Upper 2
+    100136: Table.001
+    100138: Table.002
+    100140: Table.Base.000
+    100142: Table.Base.001
+    100144: Vent.Bar.Back.Overhead
+    100146: Wall.Bar.Back.Overhang
+    100148: Wall.Bar.Back.Unfurnished
+    100150: Wall.Bottles_Shelves
+    100152: Wall.Door.Overhang
+    100154: Wall.Hullside
+    100156: Wall.Internal.001
+    100158: Wall.Internal.002
+    100160: Wall.Internal.003
+    100162: Wall.Internal.004
+    100164: Wall.Internal.005
+    100166: Wall.Internal.006
+    100168: Wall.Internal.007
+    100170: Wall.Internal.008
+    100172: Wall.Internal.009
+    100174: Wall.Strut.Small.001
+    100176: Wall.Strut.Small.002
+    100178: Wall_Strut.Large.001
+    100180: Wall_Strut.Large.002
+    100182: Wall_Strut.Large.003
+    100184: Wall_Strut.Large.004
+    100186: Z_Axis.Poll
+    100188: Z_Axis.Poll 1
+    100190: Z_Axis.Poll 2
+    100192: Z_Axis.Poll_end
+    100194: Z_Axis.Poll_end 1
+    100196: Z_Axis.Poll_end 2
+    400000: Bar.Counter.Back
+    400002: Bar.Counter.Back.Faucet.001
+    400004: Bar.Counter.Front
+    400006: Bar.Counter.Front.Faucet.001
+    400008: Bar.Front.Fountain_Faucets.001
+    400010: Bar.Front.Fountain_Faucets.002
+    400012: Bar_Stool.001
+    400014: Bar_Stool.002
+    400016: Bar_Stool.003
+    400018: Bar_Stool.Armature.001
+    400020: Bar_Stool.Armature.002
+    400022: Bar_Stool.Armature.003
+    400024: Bottle.Emendolya.001
+    400026: Bottle.Kechkova_Craft.001
+    400028: Bottle.Kechkova_Craft.002
+    400030: Bottle.Kechkova_Craft.Cap
+    400032: Bottle.Stoly_Vodka.001
+    400034: Bottle.Trepezian_Premium.001
+    400036: Bottle.Trepezian_Premium.002
+    400038: Bottle.Trepezian_Premium.003
+    400040: Bottle.Trepezian_Premium.004
+    400042: Camera.Edit
+    400044: Camera.Tables_Bar
+    400046: Camera.Tables_Windows
+    400048: Camera.Wide_Corner
+    400050: Ceiling.Life_Support.Pipes
+    400052: Ceiling.Life_Support.Vents
+    400054: Ceiling.Panels
+    400056: Chair.001
+    400058: Chair.002
+    400060: Chair.003
+    400062: Chair.004
+    400064: Control_Handle
+    400066: Control_Handle 1
+    400068: Control_Handle 2
+    400070: Control_Handle_end
+    400072: Control_Handle_end 1
+    400074: Control_Handle_end 2
+    400076: Cup.Glass_9_Fluted.001
+    400078: Display
+    400080: Door
+    400082: Floor
+    400084: Floor_Base
+    400086: Floor_Base 1
+    400088: Floor_Base 2
+    400090: Lamp.Bar.Behind
+    400092: Lamp.Room_Fill.001
+    400094: Lamp.Room_Fill.002
+    400096: Lamp.Room_Fill.003
+    400098: Lamp.Spot.Bar_Halo
+    400100: Lamp.Spot.Door_Halo
+    400102: Lamp.Spot.Table.001
+    400104: Lamp.Spot.Table.002
+    400106: Mug.001
+    400108: Mug.002
+    400110: Seat
+    400112: Seat 1
+    400114: Seat 2
+    400116: Seat_end
+    400118: Seat_end 1
+    400120: Seat_end 2
+    400122: //RootNode
+    400124: Strut.Arms.Lower
+    400126: Strut.Arms.Lower 1
+    400128: Strut.Arms.Lower 2
+    400130: Strut.Arms.Upper
+    400132: Strut.Arms.Upper 1
+    400134: Strut.Arms.Upper 2
+    400136: Table.001
+    400138: Table.002
+    400140: Table.Base.000
+    400142: Table.Base.001
+    400144: Vent.Bar.Back.Overhead
+    400146: Wall.Bar.Back.Overhang
+    400148: Wall.Bar.Back.Unfurnished
+    400150: Wall.Bottles_Shelves
+    400152: Wall.Door.Overhang
+    400154: Wall.Hullside
+    400156: Wall.Internal.001
+    400158: Wall.Internal.002
+    400160: Wall.Internal.003
+    400162: Wall.Internal.004
+    400164: Wall.Internal.005
+    400166: Wall.Internal.006
+    400168: Wall.Internal.007
+    400170: Wall.Internal.008
+    400172: Wall.Internal.009
+    400174: Wall.Strut.Small.001
+    400176: Wall.Strut.Small.002
+    400178: Wall_Strut.Large.001
+    400180: Wall_Strut.Large.002
+    400182: Wall_Strut.Large.003
+    400184: Wall_Strut.Large.004
+    400186: Z_Axis.Poll
+    400188: Z_Axis.Poll 1
+    400190: Z_Axis.Poll 2
+    400192: Z_Axis.Poll_end
+    400194: Z_Axis.Poll_end 1
+    400196: Z_Axis.Poll_end 2
+    2000000: Camera.Edit
+    2000002: Camera.Tables_Bar
+    2000004: Camera.Tables_Windows
+    2000006: Camera.Wide_Corner
+    2100000: Metal.Cracked.Patchy.Mat
+    2100002: Metal.Panels.Blue.Mat
+    2100004: Metal.Scratched.Random.Mat
+    2100006: Metal.Dark.Course.Mat
+    2100008: PVC.Beige.Mat
+    2100010: Metal.Brushed.Arch.Mat
+    2100012: Glass.Greenish.Mat
+    2100014: Label.Kechkova_Craft.Mat
+    2100016: Metal.Spotted.Bumps.Mat
+    2100018: Metal.Floor.Ventted.Rectangular.Mat
+    2100020: Metal.Counter_Top.Mat
+    2100022: Metal.Chemical_Discolored.Mat
+    2100024: Display.Contents.Mat
+    2100026: Glass.Bluish.Mat
+    2100028: Label.Trepezium_Premium.Mat
+    2100030: Liquid.Tripezian_Premium.Mat
+    2100032: Metal.Chrome.Mat
+    2100034: Glass.Beige.Mat
+    2100036: Label.Stoly_Vodka.Mat
+    2100038: Liquid.Stoly_Vodka.Mat
+    2100040: Metal.Gold.Mat
+    2100042: Wood.Cork.Mat
+    2100044: Label.Emendolya.Mat
+    2100046: Liquid.Emendolya.Mat
+    2100048: Metal.Rusty.Weathered.Gradient.Mat
+    2100050: Lighted_Panel.Flourescent.Green.Bright.Mat
+    2100052: Label.Door.Exit.Mat
+    2100054: Lighted_Panel.Flourescent.Green.Mid.Mat
+    2100056: Bottles.Mat
+    2100058: Lighted_Panel.Flourescent.Purple.Mat
+    2100060: Metal.Floor.Tractioned.Mat
+    2100062: Plastic.Red.Translucent.Mat
+    2300000: Bar.Counter.Back
+    2300002: Bar.Counter.Back.Faucet.001
+    2300004: Bar.Counter.Front
+    2300006: Bar.Counter.Front.Faucet.001
+    2300008: Bar.Front.Fountain_Faucets.001
+    2300010: Bar.Front.Fountain_Faucets.002
+    2300012: Bottle.Emendolya.001
+    2300014: Bottle.Kechkova_Craft.001
+    2300016: Bottle.Kechkova_Craft.002
+    2300018: Bottle.Kechkova_Craft.Cap
+    2300020: Bottle.Stoly_Vodka.001
+    2300022: Bottle.Trepezian_Premium.001
+    2300024: Bottle.Trepezian_Premium.002
+    2300026: Bottle.Trepezian_Premium.003
+    2300028: Bottle.Trepezian_Premium.004
+    2300030: Ceiling.Life_Support.Pipes
+    2300032: Ceiling.Life_Support.Vents
+    2300034: Ceiling.Panels
+    2300036: Chair.001
+    2300038: Chair.002
+    2300040: Chair.003
+    2300042: Chair.004
+    2300044: Cup.Glass_9_Fluted.001
+    2300046: Display
+    2300048: Door
+    2300050: Floor
+    2300052: Mug.001
+    2300054: Mug.002
+    2300056: Table.001
+    2300058: Table.002
+    2300060: Table.Base.000
+    2300062: Table.Base.001
+    2300064: Vent.Bar.Back.Overhead
+    2300066: Wall.Bar.Back.Overhang
+    2300068: Wall.Bar.Back.Unfurnished
+    2300070: Wall.Bottles_Shelves
+    2300072: Wall.Door.Overhang
+    2300074: Wall.Hullside
+    2300076: Wall.Internal.001
+    2300078: Wall.Internal.002
+    2300080: Wall.Internal.003
+    2300082: Wall.Internal.004
+    2300084: Wall.Internal.005
+    2300086: Wall.Internal.006
+    2300088: Wall.Internal.007
+    2300090: Wall.Internal.008
+    2300092: Wall.Internal.009
+    2300094: Wall.Strut.Small.001
+    2300096: Wall.Strut.Small.002
+    2300098: Wall_Strut.Large.001
+    2300100: Wall_Strut.Large.002
+    2300102: Wall_Strut.Large.003
+    2300104: Wall_Strut.Large.004
+    3300000: Bar.Counter.Back
+    3300002: Bar.Counter.Back.Faucet.001
+    3300004: Bar.Counter.Front
+    3300006: Bar.Counter.Front.Faucet.001
+    3300008: Bar.Front.Fountain_Faucets.001
+    3300010: Bar.Front.Fountain_Faucets.002
+    3300012: Bottle.Emendolya.001
+    3300014: Bottle.Kechkova_Craft.001
+    3300016: Bottle.Kechkova_Craft.002
+    3300018: Bottle.Kechkova_Craft.Cap
+    3300020: Bottle.Stoly_Vodka.001
+    3300022: Bottle.Trepezian_Premium.001
+    3300024: Bottle.Trepezian_Premium.002
+    3300026: Bottle.Trepezian_Premium.003
+    3300028: Bottle.Trepezian_Premium.004
+    3300030: Ceiling.Life_Support.Pipes
+    3300032: Ceiling.Life_Support.Vents
+    3300034: Ceiling.Panels
+    3300036: Chair.001
+    3300038: Chair.002
+    3300040: Chair.003
+    3300042: Chair.004
+    3300044: Cup.Glass_9_Fluted.001
+    3300046: Display
+    3300048: Door
+    3300050: Floor
+    3300052: Mug.001
+    3300054: Mug.002
+    3300056: Table.001
+    3300058: Table.002
+    3300060: Table.Base.000
+    3300062: Table.Base.001
+    3300064: Vent.Bar.Back.Overhead
+    3300066: Wall.Bar.Back.Overhang
+    3300068: Wall.Bar.Back.Unfurnished
+    3300070: Wall.Bottles_Shelves
+    3300072: Wall.Door.Overhang
+    3300074: Wall.Hullside
+    3300076: Wall.Internal.001
+    3300078: Wall.Internal.002
+    3300080: Wall.Internal.003
+    3300082: Wall.Internal.004
+    3300084: Wall.Internal.005
+    3300086: Wall.Internal.006
+    3300088: Wall.Internal.007
+    3300090: Wall.Internal.008
+    3300092: Wall.Internal.009
+    3300094: Wall.Strut.Small.001
+    3300096: Wall.Strut.Small.002
+    3300098: Wall_Strut.Large.001
+    3300100: Wall_Strut.Large.002
+    3300102: Wall_Strut.Large.003
+    3300104: Wall_Strut.Large.004
+    4300000: Wall.Internal.009
+    4300002: Wall_Strut.Large.001
+    4300004: Wall.Hullside
+    4300006: Chair.004
+    4300008: Bottle.Kechkova_Craft.002
+    4300010: Bottle.Kechkova_Craft.001
+    4300012: Bottle.Kechkova_Craft.Cap
+    4300014: Ceiling.Panels
+    4300016: Chair.001
+    4300018: Chair.002
+    4300020: Chair.003
+    4300022: Table.001
+    4300024: Table.Base.000
+    4300026: Table.002
+    4300028: Table.Base.001
+    4300030: Display
+    4300032: Bottle.Trepezian_Premium.003
+    4300034: Bar.Counter.Front.Faucet.001
+    4300036: Bar.Counter.Back.Faucet.001
+    4300038: Mug.002
+    4300040: Bottle.Stoly_Vodka.001
+    4300042: Bottle.Trepezian_Premium.004
+    4300044: Bottle.Trepezian_Premium.002
+    4300046: Bottle.Emendolya.001
+    4300048: Bottle.Trepezian_Premium.001
+    4300050: Bar.Front.Fountain_Faucets.001
+    4300052: Bar.Front.Fountain_Faucets.002
+    4300054: Wall.Internal.001
+    4300056: Wall.Strut.Small.002
+    4300058: Wall.Door.Overhang
+    4300060: Wall.Internal.004
+    4300062: Wall.Internal.003
+    4300064: Wall_Strut.Large.003
+    4300066: Wall.Internal.002
+    4300068: Door
+    4300070: Ceiling.Life_Support.Pipes
+    4300072: Ceiling.Life_Support.Vents
+    4300074: Vent.Bar.Back.Overhead
+    4300076: Wall.Internal.007
+    4300078: Wall_Strut.Large.004
+    4300080: Wall.Internal.008
+    4300082: Wall.Bar.Back.Overhang
+    4300084: Wall.Strut.Small.001
+    4300086: Wall.Bar.Back.Unfurnished
+    4300088: Wall.Internal.006
+    4300090: Bar.Counter.Back
+    4300092: Wall.Internal.005
+    4300094: Wall_Strut.Large.002
+    4300096: Wall.Bottles_Shelves
+    4300098: Bar.Counter.Front
+    4300100: Floor
+    4300102: Mug.001
+    4300104: Bar_Stool.003
+    4300106: Bar_Stool.001
+    4300108: Bar_Stool.002
+    4300110: Cup.Glass_9_Fluted.001
+    9500000: //RootNode
+    10800000: Lamp.Bar.Behind
+    10800002: Lamp.Room_Fill.001
+    10800004: Lamp.Room_Fill.002
+    10800006: Lamp.Room_Fill.003
+    10800008: Lamp.Spot.Bar_Halo
+    10800010: Lamp.Spot.Door_Halo
+    10800012: Lamp.Spot.Table.001
+    10800014: Lamp.Spot.Table.002
+    13700000: Bar_Stool.001
+    13700002: Bar_Stool.002
+    13700004: Bar_Stool.003
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lighted_Panel.Flourescent.Purple.Mat
+    second: {fileID: 2100000, guid: f8ddcb6f7a0bf314d89e2a3c068f2bdd, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
