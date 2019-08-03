@@ -1,0 +1,348 @@
+fileFormatVersion: 2
+guid: 4a9009cf9dee3e746867bc80ac7143e8
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: abandoned_tower
+    100002: Cylinder01
+    100004: Cylinder01 1
+    100006: Cylinder01 2
+    100008: Cylinder02
+    100010: Line06
+    100012: Object01
+    100014: Object01 1
+    100016: Object01 2
+    100018: Object02
+    100020: Object03
+    100022: Object03 1
+    100024: Object04
+    100026: Object04 1
+    100028: Object05
+    100030: Object05 1
+    100032: ruined_tower
+    100034: sci_fi_tower
+    100036: //RootNode
+    100038: Shape01
+    100040: Shape02
+    100042: Shape03
+    100044: Shape04
+    100046: Shape05
+    100048: Shape06
+    100050: Shape07
+    100052: Shape08
+    100054: Shape09
+    100056: Shape10
+    100058: Shape11
+    100060: Shape12
+    100062: Shape13
+    100064: Shape14
+    100066: Shape15
+    100068: Shape16
+    100070: Shape17
+    100072: Shape18
+    100074: Shape19
+    100076: Shape20
+    100078: Shape21
+    100080: Shape22
+    100082: Shape23
+    100084: Shape24
+    100086: Shape25
+    100088: Shape26
+    100090: Shape27
+    100092: Shape28
+    100094: Shape29
+    100096: Shape30
+    100098: Shape31
+    100100: Shape32
+    100102: Shape33
+    100104: Shape34
+    400000: abandoned_tower
+    400002: Cylinder01
+    400004: Cylinder01 1
+    400006: Cylinder01 2
+    400008: Cylinder02
+    400010: Line06
+    400012: Object01
+    400014: Object01 1
+    400016: Object01 2
+    400018: Object02
+    400020: Object03
+    400022: Object03 1
+    400024: Object04
+    400026: Object04 1
+    400028: Object05
+    400030: Object05 1
+    400032: ruined_tower
+    400034: sci_fi_tower
+    400036: //RootNode
+    400038: Shape01
+    400040: Shape02
+    400042: Shape03
+    400044: Shape04
+    400046: Shape05
+    400048: Shape06
+    400050: Shape07
+    400052: Shape08
+    400054: Shape09
+    400056: Shape10
+    400058: Shape11
+    400060: Shape12
+    400062: Shape13
+    400064: Shape14
+    400066: Shape15
+    400068: Shape16
+    400070: Shape17
+    400072: Shape18
+    400074: Shape19
+    400076: Shape20
+    400078: Shape21
+    400080: Shape22
+    400082: Shape23
+    400084: Shape24
+    400086: Shape25
+    400088: Shape26
+    400090: Shape27
+    400092: Shape28
+    400094: Shape29
+    400096: Shape30
+    400098: Shape31
+    400100: Shape32
+    400102: Shape33
+    400104: Shape34
+    2100000: glass_01
+    2100002: 01 - Default
+    2100004: szklo_mf_2
+    2100006: steel_02
+    2100008: steel_01
+    2100010: steel_03
+    2100012: steel_04
+    2300000: Cylinder01
+    2300002: Cylinder01 1
+    2300004: Cylinder01 2
+    2300006: Cylinder02
+    2300008: Object01
+    2300010: Object01 1
+    2300012: Object01 2
+    2300014: Object02
+    2300016: Object03
+    2300018: Object03 1
+    2300020: Object04
+    2300022: Object04 1
+    2300024: Object05
+    2300026: Object05 1
+    2300028: Shape01
+    2300030: Shape02
+    2300032: Shape03
+    2300034: Shape04
+    2300036: Shape05
+    2300038: Shape06
+    2300040: Shape07
+    2300042: Shape08
+    2300044: Shape09
+    2300046: Shape10
+    2300048: Shape11
+    2300050: Shape12
+    2300052: Shape13
+    2300054: Shape14
+    2300056: Shape15
+    2300058: Shape16
+    2300060: Shape17
+    2300062: Shape18
+    2300064: Shape19
+    2300066: Shape20
+    2300068: Shape21
+    2300070: Shape22
+    2300072: Shape23
+    2300074: Shape24
+    2300076: Shape25
+    2300078: Shape26
+    2300080: Shape27
+    2300082: Shape28
+    2300084: Shape29
+    2300086: Shape30
+    2300088: Shape31
+    2300090: Shape32
+    2300092: Shape33
+    2300094: Shape34
+    3300000: Cylinder01
+    3300002: Cylinder01 1
+    3300004: Cylinder01 2
+    3300006: Cylinder02
+    3300008: Object01
+    3300010: Object01 1
+    3300012: Object01 2
+    3300014: Object02
+    3300016: Object03
+    3300018: Object03 1
+    3300020: Object04
+    3300022: Object04 1
+    3300024: Object05
+    3300026: Object05 1
+    3300028: Shape01
+    3300030: Shape02
+    3300032: Shape03
+    3300034: Shape04
+    3300036: Shape05
+    3300038: Shape06
+    3300040: Shape07
+    3300042: Shape08
+    3300044: Shape09
+    3300046: Shape10
+    3300048: Shape11
+    3300050: Shape12
+    3300052: Shape13
+    3300054: Shape14
+    3300056: Shape15
+    3300058: Shape16
+    3300060: Shape17
+    3300062: Shape18
+    3300064: Shape19
+    3300066: Shape20
+    3300068: Shape21
+    3300070: Shape22
+    3300072: Shape23
+    3300074: Shape24
+    3300076: Shape25
+    3300078: Shape26
+    3300080: Shape27
+    3300082: Shape28
+    3300084: Shape29
+    3300086: Shape30
+    3300088: Shape31
+    3300090: Shape32
+    3300092: Shape33
+    3300094: Shape34
+    4300000: Object01
+    4300002: Cylinder01
+    4300004: Object01
+    4300006: Object02
+    4300008: Object03
+    4300010: Object04
+    4300012: Object05
+    4300014: Cylinder01
+    4300016: Shape15
+    4300018: Shape31
+    4300020: Shape30
+    4300022: Object04
+    4300024: Object05
+    4300026: Shape29
+    4300028: Shape01
+    4300030: Shape02
+    4300032: Shape03
+    4300034: Shape04
+    4300036: Shape05
+    4300038: Shape06
+    4300040: Shape07
+    4300042: Shape08
+    4300044: Shape09
+    4300046: Shape10
+    4300048: Shape11
+    4300050: Shape12
+    4300052: Shape13
+    4300054: Shape14
+    4300056: Shape34
+    4300058: Shape16
+    4300060: Shape17
+    4300062: Shape18
+    4300064: Shape19
+    4300066: Shape20
+    4300068: Shape21
+    4300070: Shape22
+    4300072: Shape23
+    4300074: Shape24
+    4300076: Shape25
+    4300078: Shape26
+    4300080: Shape27
+    4300082: Shape28
+    4300084: Object03
+    4300086: Object01
+    4300088: Shape32
+    4300090: Shape33
+    4300092: Cylinder01
+    4300094: Cylinder02
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
