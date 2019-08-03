@@ -1,5 +1,5 @@
 # Serenity
-The graduation project aims to help grasp the basics of game design and developemnt.
+The graduation project aims to help grasp the basics of game design and developemnt. You'll need the paid asset [Sci-Fi Laboratory Pack 2](https://assetstore.unity.com/packages/3d/environments/sci-fi/sci-fi-laboratory-pack-2-35688).
 
 # Synopsis
 In the year is 205x, some companies have been able to create AI systems, but they tend to deteriorate over time due to the difference in processing speed between their processing units and the real world. You play as a test subject who has been merged with the AI system and prosthetics and navigate through tests made by the company to test your limits. 
